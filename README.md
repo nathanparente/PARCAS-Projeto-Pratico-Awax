@@ -22,7 +22,7 @@
 
 
 ## 🖥 Link to access the site
-https://nathanpizzasjs.netlify.app/
+[https://projetopraticoawax.netlify.app/](https://projetopraticoawax.netlify.app/)
 
 
 <p align="center">Copyright © 2022 nathanparente</p>
